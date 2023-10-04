@@ -12,5 +12,5 @@
 
 <h1>💬 Contact/Colaborate:</h1>
 
-![My Skills](https://skillicons.dev/icons?i=discord) -> xZexius
+![My Skills](https://skillicons.dev/icons?i=discord) -> xZexius <br>
 ![My Skills](https://skillicons.dev/icons?i=twitter) -> xzexiusdev
