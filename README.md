@@ -2,9 +2,8 @@
 
 <h1>🔒 ¿Do you need a simple login website?</h1>
 
-<center><p>🫴🏻 ¡Use this repository to it!</p></center>
-
-<h1>⚠️ PHP and DataBases are not included.</h1>
+🫴🏻 ¡Use this repository to it!
+⚠️ PHP and DataBases are not included.
 
 <h1>👅 Languages Used:</h1>
 
