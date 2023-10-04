@@ -7,7 +7,7 @@
 
 <h1>👅 Languages Used:</h1>
 
-![My Skills](https://skillicons.dev/icons?i=html) <br>
+![My Skills](https://skillicons.dev/icons?i=html)
 ![My Skills](https://skillicons.dev/icons?i=css)
 
 <h1>💬 Contact/Colaborate:</h1>
